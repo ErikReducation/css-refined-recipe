@@ -41,6 +41,16 @@ a:link {
   color: navy;
 }
 
+.conversion {
+  font-family: "Inconsolata", sans-serif;
+  color: turqoise;
+}
+
+.rate {
+  font-family: "Helvetica", sans-serif;
+  color: green;
+}
+
 a:visited {
   color: green;
 }
