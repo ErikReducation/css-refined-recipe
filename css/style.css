@@ -1,6 +1,18 @@
+/*
+List of Tags to Customize
+h1, h2..
+body
+p
+li
+form?
+form labels?
+href
+*/
+
 html {
   height: 100%;
   width: 100%;
+  cursor: url(../images/ducky.png)
 }
 
 body {
