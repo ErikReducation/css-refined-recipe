@@ -12,10 +12,9 @@ href
 html {
   height: 100%;
   width: 100%;
-  
-a {
-  cursor: url(../images/ducky.png)
+  cursor: url(../images/tinyducky.png)
 }
+
 body {
   background-image: url(../images/royalty-free-wallpaper.webp);
   color:darkblue;
