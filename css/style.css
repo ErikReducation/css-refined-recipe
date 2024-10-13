@@ -42,12 +42,12 @@ a:link {
 }
 
 .conversion {
-  font-family: "Inconsolata", sans-serif;
+  font-family: "Helvetica", sans-serif;
   color: turqoise;
 }
 
 .rate {
-  font-family: "Helvetica", sans-serif;
+  font-family: "Inconsolata", sans-serif;
   color: green;
 }
 
