@@ -1,12 +1,9 @@
 /*
 List of Tags to Customize
-h1, h2..
-body
-p
-li
+
 form?
 form labels?
-href
+
 */
 
 html {
@@ -23,12 +20,36 @@ body {
 }
 
 h1, h2 {
-font-family: "Helvetica", sans-serif;
+font-family: "Times New Roman", sans-serif;
   color:lightblue;
   text-shadow: 3px 3px 3px darkblue;
   font-style:oblique;
 }
 
-p{
+p {
+  font-family: "Comic Sans MS", cursive, sans-serif;
   color:blue;
 }
+
+li {
+  font-family: "Afacad Flux", sans-serif;
+  color:purple;
+}
+
+a:link {
+  font-family: "Roboto", sans-serif;
+  color: navy;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: pink;
+} 
+
