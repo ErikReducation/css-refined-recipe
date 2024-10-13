@@ -31,9 +31,14 @@ p {
   color:blue;
 }
 
-li {
+.li1 {
   font-family: "Afacad Flux", sans-serif;
   color:purple;
+}
+
+.li2 {  
+  font-family "Libre Baskerville", sans-serif;
+  color:salmon;
 }
 
 a:link {
