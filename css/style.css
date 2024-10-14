@@ -5,7 +5,9 @@ form?
 form labels?
 
 */
-
+.isblock {
+  display:block;
+}
 .grid {
   display:grid;
   grid-template-columns: 1fr 1fr;
