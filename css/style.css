@@ -6,6 +6,13 @@ form labels?
 
 */
 
+.grid {
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 10px;
+}
+
 html {
   height: 100%;
   width: 100%;
